@@ -1,3 +1,12 @@
+/*
+    * A DICE ROLLING GAME
+    * The program starts by generating a random dice number and stores it after ensuring it isn't greater than 6.
+    * It then proceeeds to ask the user to enter a number  and finds if they both have doubles.
+    *  This goes on until doubles are found then it exits out.
+    * Future implemetations include:
+        1. Adding a multiplayer interface
+        2. Adding a user interface.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
